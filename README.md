@@ -1,6 +1,6 @@
 # UTCTF 2020 Writeups
 
-This is a collection of my writeups for challenges in [UTCTF 2020](https://hsctf.com/)
+This is a collection of my writeups for challenges in [UTCTF 2020](https://utctf.live/)
 
 ---
 
